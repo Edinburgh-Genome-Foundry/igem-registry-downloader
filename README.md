@@ -14,7 +14,7 @@ This project come with no warranty whatsoever, it just worked for us and we want
 ## Licence
 
 The scripts were originally written at the [Edinburgh Genome Foundry](http://genomefoundry.org/) by [Zulko](https://github.com/Zulko).
-The code is released on [Github](https://github.com/Edinburgh-Genome-Foundry/SBOL-Visual-CSS) under the Public domain (Creative Commons 0) licence by the Edinburgh Genome Foundry.
+The code is released on [Github](https://github.com/Edinburgh-Genome-Foundry/igem-registry-downloader) under the Public domain (Creative Commons 0) licence by the Edinburgh Genome Foundry.
 
 If something doesn't work for you, please open an issue.
 
